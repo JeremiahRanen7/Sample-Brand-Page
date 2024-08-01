@@ -15,7 +15,7 @@ This project is a Nike brand landing page created using React.
 
 ## Demo
 
-![alt text](brand-page-1.png)
+![alt text](brand-image.png)
 
 ## Installation
 
